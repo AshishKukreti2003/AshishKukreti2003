@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Love+to+learn+new+stuffs..&hearts;++;Computer+Science+Student,;Web+Developer,;Cloud+Enthusiast,;Active+Learner"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Love+to+learn+new+stuffs;++;Computer+Science+Student,;Web+Developer,;Cloud+Enthusiast,;Active+Learner"></a>
 </p>
 
 <p align="right"> <h3>Profile Views :-</h3> <img <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkukreti2003&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkukreti2003" /> </p>
